@@ -1,9 +1,9 @@
 module.exports = {
   NODE_ENV: '"default"',
-  HORIZON_SERVER: '"https://api.testnet.tokend.org"',
-  STORAGE_SERVER: '"https://storage.testnet.tokend.org/api"',
-  KEY_SERVER_ADMIN: '"https://admin.testnet.tokend.org/_/adks"',
-  NETWORK_PASSPHRASE: '"TokenD Testnet Network"',
+  HORIZON_SERVER: '"http://94.130.199.64:8000"',
+  STORAGE_SERVER: '"http://94.130.199.64:9001/api"',
+  KEY_SERVER_ADMIN: '"http://94.130.199.64:8006"',
+  NETWORK_PASSPHRASE: '"TokenD Developer Network"'
   FEATURES: {
     /* Enable authentication using seed. Such auth has no 2FA.
     * WARN: for demo purposes only, could be very dangerous on prod

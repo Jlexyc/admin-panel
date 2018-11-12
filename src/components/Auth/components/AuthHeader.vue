@@ -2,7 +2,7 @@
   <header class="auth-header">
     <div class="auth-header__container app__container">
       <div class="auth-header__header-group auth-header__header-group--vertical">
-        <span class="auth-header__admin-logo">TokenD</span>
+        <span class="auth-header__admin-logo">MySTO</span>
         <span class="auth-header__admin-badge">ADMIN PANEL</span>
       </div>
 

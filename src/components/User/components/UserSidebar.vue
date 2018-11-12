@@ -1,6 +1,6 @@
 <template>
   <aside class="user-sidebar">
-    <span class="user-sidebar__admin-logo">TokenD</span>
+    <span class="user-sidebar__admin-logo">MySTO</span>
     <span class="user-sidebar__admin-badge">ADMIN PANEL</span>
 
     <nav class="user-sidebar__nav user-sidebar__nav--full-height">
